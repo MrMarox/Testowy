@@ -1,0 +1,3 @@
+Nasz pierwszy plik.
+
+---dodatkowe informacje.
